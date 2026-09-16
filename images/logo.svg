@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 85" width="100%" height="100%">
+  <g transform="translate(10, 5)">
+    <!-- Blue Loop (Bottom Left) -->
+    <path fill="#005bb5" d="M 38 25 C 46 25 52 31 52 39 C 52 47 45 54 37 54 C 29 54 22 47 22 39 C 22 31 29 25 37 25 L 37 13 C 22 13 10 25 10 40 C 10 55 22 67 37 67 C 52 67 64 55 64 40 C 64 36 63 32 61 29 L 50 35 C 51 37 52 38 52 40 C 52 47 45 54 37 54 Z"/>
+    <!-- Green Loop (Top Right) -->
+    <path fill="#8cc63f" d="M 44 8 C 32 8 22 17 21 28 L 33 28 C 34 22 38 19 44 19 C 51 19 57 25 57 32 C 57 39 51 45 44 45 C 41 45 38 44 36 42 L 28 50 C 32 54 38 57 44 57 C 58 57 69 46 69 32 C 69 18 58 8 44 8 Z"/>
+  </g>
+  <!-- Text for Dark Background -->
+  <text x="88" y="46" font-family="'Outfit', 'Plus Jakarta Sans', 'Segoe UI', sans-serif" font-weight="900" font-size="34" fill="#ffffff" letter-spacing="1">CHRONIC</text>
+  <text x="89" y="67" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="500" font-size="14" fill="#8cc63f" letter-spacing="4">INDUSTRIES</text>
+</svg>
